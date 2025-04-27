@@ -22,6 +22,7 @@ Results-driven DevOps Engineer with a strong background in fintech operations, a
 ## Certifications
 
 - [CKA - Certified Kubernetes Administrator](https://www.credly.com/badges/db9febd7-410a-4b31-8e68-5df545804a24)
+- [MCIT & Udacity Advanced Cloud DevOps, Nano Degree](https://www.udacity.com/certificate/2RPNPKKQ)
 
 ---
 
