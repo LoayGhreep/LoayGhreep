@@ -27,10 +27,10 @@ Results-driven DevOps Engineer with a strong background in fintech operations, a
 
 ## Projects & Achievements
 
-- **M-Pesa Operations Optimization:** Reduced downtime by 50% through proactive monitoring and system hardening.
+- **M-Pesa Operations Optimization:** Reduced downtime by 30% through proactive Dynatrace monitoring and customized scripts.
 - **ENR Digitalization Project:** Led system deployment and backend operations across 1,500+ railway stations.
 - **Metro Subscriptions Transformation:** Engineered scalable backend solutions for Egypt's metro subscription digitalization.
-- **Custom Monitoring System:** Developed in-house monitoring tools reducing incident resolution time by 60%.
+- **Custom Monitoring System:** Developed in-house monitoring tools, reducing incident resolution time by 60%.
 - **Awarded Employee of the Year (2022):** Recognized for technical innovation and cross-functional leadership.
 
 ---
