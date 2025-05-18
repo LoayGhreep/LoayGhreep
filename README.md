@@ -1,49 +1,44 @@
-# Loay Ghreep
-DevOps, Automation & Service Development Engineer
+# Loay Ghreep  
+DevOps, Automation & Systems Engineer | CKA-Certified
 
 ---
 
 ## About Me
-Results-driven DevOps Engineer with a strong background in fintech operations, automation, and scalable service development. I specialize in driving system reliability, CI/CD efficiency, and operational excellence across critical projects. Currently expanding my impact through cloud-native development, strategic automation, and enterprise-grade solutions.
+
+Engineer with a fintech operations background, focused on system reliability, process automation, and lean backend development. I work at the edge of DevOps and support, delivering both business impact and technical depth. Most of what I know is self-taught or earned through actual production incidents, not theories.
 
 ---
 
-## Skills & Technologies
+## Key Skills
 
-- **DevOps & Cloud:** AWS, Terraform (in progress), Microsoft Automate
-- **Containers & Orchestration:** Docker, Kubernetes (CKA Certified)
-- **Monitoring & Observability:** Dynatrace, Zabbix, Kibana, Custom Tools
-- **Backend Development:** Node.js, API Development, Database Development, Firebase Integration, Flutter (Web, Android, IOS, Desktop) Development
-- **System Administration:** Linux (Advanced), Networking TCP/IP (CCNA-level Experience)
-- **Automation & Process Improvement:** CI/CD Pipelines, ITIL Change Management, Workflow Automation
+- **Cloud & Infra:** AWS (Lightsail, EC2 – personal/hands-on), Terraform (learning hands-on)
+- **Containers & Orchestration:** Docker, Kubernetes (CKA certified)
+- **Monitoring & Observability:** Dynatrace, Zabbix, Kibana, custom MS Automate flows
+- **Dev & Automation:** Node.js, REST APIs, Firebase, Flutter (all platforms), GitHub Actions CI/CD, Microsoft Power Automate
+- **Ops & Admin:** Linux, Bash scripting, networking (TCP/IP), incident handling, ITIL change mgmt
 
 ---
 
 ## Certifications
 
-- [CKA - Certified Kubernetes Administrator](https://www.credly.com/badges/db9febd7-410a-4b31-8e68-5df545804a24)
-- [MCIT & Udacity Advanced Cloud DevOps, Nano Degree](https://www.udacity.com/certificate/2RPNPKKQ)
+- [CKA – Certified Kubernetes Administrator](https://www.credly.com/badges/db9febd7-410a-4b31-8e68-5df545804a24)  
+- [Advanced Cloud DevOps Nanodegree – MCIT/Udacity](https://www.udacity.com/certificate/2RPNPKKQ)
 
 ---
 
-## Projects & Achievements
+## Projects
 
-- **M-Pesa Operations Optimization:** Reduced downtime by 30% through proactive Dynatrace monitoring and customized scripts.
-- **ENR Digitalization Project:** Led system deployment and backend operations across 1,500+ railway stations.
-- **Metro Subscriptions Transformation:** Engineered scalable backend solutions for Egypt's metro subscription digitalization.
-- **Custom Monitoring System:** Developed in-house monitoring tools, reducing incident resolution time by 60%.
-- **Awarded Employee of the Year (2022):** Recognized for technical innovation and cross-functional leadership.
-
----
-
-## Current Focus
-Building Syspectrum and Cipherium projects to advance system monitoring and cybersecurity intelligence. Growing cloud automation expertise while preparing for Terraform certification. Open to international opportunities where real impact is valued.
+- **Syspectrum** – Lightweight monitoring stack: Node.js agent + Flutter dashboard + NeDB backend  
+- **Custom Monitoring Platform** – Power Automate + MS Lists + Telegram bot for real-time infra alerts  
+- **ENR Digitalization** – Backend & ops for 1,500+ Egyptian National Railway stations  
+- **Metro Subscriptions System** – Designed and maintained scalable backend infra  
+- **M-Pesa Operational Support** – Active monitoring tooling and operations  
 
 ---
 
 ## Contact
 
-- 📧 loayghreep1@gmail.com
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/loay-ghreep-379580112/)
+- 📧 loayghreep1@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/loay-ghreep-379580112/)
 
-Open to collaborations, discussions, and opportunities globally.
+Available for freelance, contract, or full-time work—local or remote.
