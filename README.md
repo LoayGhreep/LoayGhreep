@@ -11,11 +11,45 @@ Engineer with a fintech operations background, focused on system reliability, pr
 
 ## Key Skills
 
-- **Cloud & Infra:** AWS (Lightsail, EC2 – personal/hands-on), Terraform (learning hands-on)
-- **Containers & Orchestration:** Docker, Kubernetes (CKA certified)
-- **Monitoring & Observability:** Dynatrace, Zabbix, Kibana, custom MS Automate flows
-- **Dev & Automation:** Node.js, REST APIs, Firebase, Flutter (all platforms), GitHub Actions CI/CD, Microsoft Power Automate
-- **Ops & Admin:** Linux, Bash scripting, networking (TCP/IP), incident handling, ITIL change mgmt
+<p align="center">
+  <a><img src="./img/aws.png" /></a>
+  <a><img src="./img/firebase.png" /></a>
+  <a><img src="./img/dynatrace.png" /></a>
+  <a><img src="./img/msautomate.png" /></a>
+  <a><img src="./img/gitactions.png" /></a>
+</p>
+
+<p align="center">
+  <a><img src="./img/jenkins.png" /></a>
+  <a><img src="./img/k8.png" /></a>
+  <a><img src="./img/docker.png" /></a>
+  <a><img src="./img/terraform.png" /></a>
+  <a><img src="./img/bash.png" /></a>
+</p>
+
+<p align="center">
+  <a><img src="./img/linux.png" /></a>
+  <a><img src="./img/node.png" /></a>
+  <a><img src="./img/sql.png" /></a>
+  <a><img src="./img/tcp.png" /></a>
+  <a><img src="./img/sec.png" /></a>
+</p>
+
+<p align="center">
+  <a><img src="./img/kibana.png" /></a>
+  <a><img src="./img/prometheus.png" /></a>
+  <a><img src="./img/zbx.png" /></a>
+  <a><img src="./img/prod.png" /></a>
+  <a><img src="./img/debug.png" /></a>
+</p>
+
+<p align="center">
+  <a><img src="./img/rca.png" /></a>
+  <a><img src="./img/vendor.png" /></a>
+  <a><img src="./img/opt.png" /></a>
+  <a><img src="./img/chmgmt.png" /></a>
+  <a><img src="./img/bots.png" /></a>
+</p>
 
 ---
 
