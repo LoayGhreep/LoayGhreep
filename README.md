@@ -11,37 +11,44 @@ Engineer with a fintech operations background, focused on system reliability, pr
 
 ## Key Skills
 
-<p align="center">
-  <a><img src="./img/aws.png" /></a>
-  <a><img src="./img/firebase.png" /></a>
-  <a><img src="./img/dynatrace.png" /></a>
-  <a><img src="./img/msautomate.png" /></a>
-  <a><img src="./img/gitactions.png" /></a><br/>
-  
-  <a><img src="./img/jenkins.png" /></a>
-  <a><img src="./img/docker.png" /></a>
-  <a><img src="./img/k8.png" /></a>
-  <a><img src="./img/terraform.png" /></a>
-  <a><img src="./img/bash.png" /></a><br/>
-  
-  <a><img src="./img/linux.png" /></a>
-  <a><img src="./img/node.png" /></a>
-  <a><img src="./img/sql.png" /></a>
-  <a><img src="./img/tcp.png" /></a>
-  <a><img src="./img/sec.png" /></a><br/>
-  
-  <a><img src="./img/prometheus.png" /></a>
-  <a><img src="./img/zbx.png" /></a>
-  <a><img src="./img/kibana.png" /></a>
-  <a><img src="./img/prod.png" /></a>
-  <a><img src="./img/debug.png" /></a><br/>
-  
-  <a><img src="./img/rca.png" /></a>
-  <a><img src="./img/vendor.png" /></a>
-  <a><img src="./img/opt.png" /></a>
-  <a><img src="./img/chmgmt.png" /></a>
-  <a><img src="./img/bots.png" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./img/aws.png"/></td>
+    <td><img src="./img/firebase.png"/></td>
+    <td><img src="./img/dynatrace.png"/></td>
+    <td><img src="./img/msautomate.png"/></td>
+    <td><img src="./img/gitactions.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="./img/jenkins.png"/></td>
+    <td><img src="./img/docker.png"/></td>
+    <td><img src="./img/k8.png"/></td>
+    <td><img src="./img/terraform.png"/></td>
+    <td><img src="./img/bash.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="./img/linux.png"/></td>
+    <td><img src="./img/node.png"/></td>
+    <td><img src="./img/sql.png"/></td>
+    <td><img src="./img/tcp.png"/></td>
+    <td><img src="./img/sec.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="./img/prometheus.png"/></td>
+    <td><img src="./img/zbx.png"/></td>
+    <td><img src="./img/kibana.png"/></td>
+    <td><img src="./img/prod.png"/></td>
+    <td><img src="./img/debug.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="./img/rca.png"/></td>
+    <td><img src="./img/vendor.png"/></td>
+    <td><img src="./img/opt.png"/></td>
+    <td><img src="./img/chmgmt.png"/></td>
+    <td><img src="./img/bots.png"/></td>
+  </tr>
+</table>
+
 
 ---
 
