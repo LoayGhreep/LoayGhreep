@@ -9,53 +9,56 @@ Engineer with a fintech operations background, focused on system reliability, pr
 
 ---
 
+## Certifications
+
+<table align="center">
+  <tr>
+    <td><a href="https://www.credly.com/badges/db9febd7-410a-4b31-8e68-5df545804a24"><img src="./img/cka.png"/></a></td>
+    <td><a href="https://www.udacity.com/certificate/2RPNPKKQ"><img src="./img/nanodegree.png"/></a></td>
+  </tr>
+</table>
+
+---
+
 ## Key Skills
 
 <table align="center">
   <tr>
-    <td><img src="./img/aws.png"/></td>
-    <td><img src="./img/firebase.png"/></td>
-    <td><img src="./img/dynatrace.png"/></td>
-    <td><img src="./img/msautomate.png"/></td>
-    <td><img src="./img/gitactions.png"/></td>
+    <td><a href="#"><img src="./img/aws.png"/></a></td>
+    <td><a href="#"><img src="./img/firebase.png"/></a></td>
+    <td><a href="#"><img src="./img/dynatrace.png"/></a></td>
+    <td><a href="#"><img src="./img/msautomate.png"/></a></td>
+    <td><a href="#"><img src="./img/gitactions.png"/></a></td>
   </tr>
   <tr>
-    <td><img src="./img/jenkins.png"/></td>
-    <td><img src="./img/docker.png"/></td>
-    <td><img src="./img/k8.png"/></td>
-    <td><img src="./img/terraform.png"/></td>
-    <td><img src="./img/bash.png"/></td>
+    <td><a href="#"><img src="./img/jenkins.png"/></a></td>
+    <td><a href="#"><img src="./img/docker.png"/></a></td>
+    <td><a href="#"><img src="./img/k8.png"/></a></td>
+    <td><a href="#"><img src="./img/terraform.png"/></a></td>
+    <td><a href="#"><img src="./img/bash.png"/></a></td>
   </tr>
   <tr>
-    <td><img src="./img/linux.png"/></td>
-    <td><img src="./img/node.png"/></td>
-    <td><img src="./img/sql.png"/></td>
-    <td><img src="./img/tcp.png"/></td>
-    <td><img src="./img/sec.png"/></td>
+    <td><a href="#"><img src="./img/linux.png"/></a></td>
+    <td><a href="#"><img src="./img/node.png"/></a></td>
+    <td><a href="#"><img src="./img/sql.png"/></a></td>
+    <td><a href="#"><img src="./img/tcp.png"/></a></td>
+    <td><a href="#"><img src="./img/sec.png"/></a></td>
   </tr>
   <tr>
-    <td><img src="./img/prometheus.png"/></td>
-    <td><img src="./img/zbx.png"/></td>
-    <td><img src="./img/kibana.png"/></td>
-    <td><img src="./img/prod.png"/></td>
-    <td><img src="./img/debug.png"/></td>
+    <td><a href="#"><img src="./img/prometheus.png"/></a></td>
+    <td><a href="#"><img src="./img/zbx.png"/></a></td>
+    <td><a href="#"><img src="./img/kibana.png"/></a></td>
+    <td><a href="#"><img src="./img/prod.png"/></a></td>
+    <td><a href="#"><img src="./img/debug.png"/></a></td>
   </tr>
   <tr>
-    <td><img src="./img/rca.png"/></td>
-    <td><img src="./img/vendor.png"/></td>
-    <td><img src="./img/opt.png"/></td>
-    <td><img src="./img/chmgmt.png"/></td>
-    <td><img src="./img/bots.png"/></td>
+    <td><a href="#"><img src="./img/rca.png"/></a></td>
+    <td><a href="#"><img src="./img/vendor.png"/></a></td>
+    <td><a href="#"><img src="./img/opt.png"/></a></td>
+    <td><a href="#"><img src="./img/chmgmt.png"/></a></td>
+    <td><a href="#"><img src="./img/bots.png"/></a></td>
   </tr>
 </table>
-
-
----
-
-## Certifications
-
-- [CKA – Certified Kubernetes Administrator](https://www.credly.com/badges/db9febd7-410a-4b31-8e68-5df545804a24)  
-- [Advanced Cloud DevOps Nanodegree – MCIT/Udacity](https://www.udacity.com/certificate/2RPNPKKQ)
 
 ---
 
