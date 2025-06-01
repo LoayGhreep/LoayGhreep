@@ -1,11 +1,6 @@
-# Loay Ghreep  
-DevOps, Automation & Systems Engineer | CKA-Certified
-
----
-
 ## About Me
 
-Engineer with a fintech operations background, focused on system reliability, process automation, and lean backend development. I work at the edge of DevOps and support, delivering both business impact and technical depth. Most of what I know is self-taught or earned through actual production incidents, not theories.
+An engineer with a fintech operations background, focused on system reliability, process automation, and lean backend development. I work at the edge of DevOps and support, delivering both business impact and technical depth. Most of what I know is self-taught or earned through actual production incidents.
 
 ---
 
